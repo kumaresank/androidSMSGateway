@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SmsGateway</string>
+    <string name="gateway_started">GateWay Started</string>
+</resources>
